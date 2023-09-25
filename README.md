@@ -1,4 +1,4 @@
-# Distributed-Systems-and-Middleware-Technologies
+# Second-hand Car Advertisement application Based on Erlang distributed server
 The distributed system is a web-based application designed to handle various functionalities related to
 user management, advertisements, cars, and orders. It consists of multiple modules, including a front-end
 developed using Angular, a backend REST API built with Spring Boot, and two separate databases:
